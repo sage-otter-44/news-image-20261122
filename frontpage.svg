@@ -1,0 +1,198 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#eaf2fb"/><stop offset="1" stop-color="#cfe0f2"/></linearGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f2c94c"/><stop offset="1" stop-color="#e0a800"/></linearGradient>
+</defs>
+<rect x="0" y="0" width="1024" height="1024" fill="#f7f3ea"/>
+<rect x="0" y="0" width="1024" height="1024" fill="none" stroke="#0b1e3a" stroke-width="3"/>
+<!-- MASTHEAD -->
+<rect x="0" y="0" width="1024" height="62" fill="#0b1e3a"/>
+<text x="16" y="30" font-family="Georgia, serif" font-size="30" font-weight="bold" fill="#ffffff" letter-spacing="2">THE WORLD TODAY</text>
+<text x="16" y="52" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#f2c94c" letter-spacing="3">SUNDAY · 22 NOVEMBER 2026</text>
+<text x="1008" y="30" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#ffffff" text-anchor="end">50 STORIES · 7 REGIONS · 10 FIELDS</text>
+<text x="1008" y="52" font-family="Arial, sans-serif" font-size="11" fill="#b9c6da" text-anchor="end">A PICTURE OF THE DAY'S NEWS</text>
+<!-- TIMELINE -->
+<rect x="0" y="62" width="1024" height="54" fill="#e8e0cc"/>
+<text x="16" y="80" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#0b1e3a" letter-spacing="1">THE DAY IN TIME</text>
+<text x="16" y="97" font-family="Arial, sans-serif" font-size="10" fill="#5a5344">Local times shown</text>
+<g font-family="Arial, sans-serif">
+<g><rect x="150" y="66" width="124" height="46" fill="#ffffff" stroke="#c9bfa5"/><text x="157" y="82" font-size="11" font-weight="bold" fill="#b3261e">07:39 NZT</text><text x="157" y="97" font-size="10" fill="#222">Test begins,</text><text x="157" y="108" font-size="10" fill="#222">Wellington</text></g>
+<g><rect x="276" y="66" width="124" height="46" fill="#ffffff" stroke="#c9bfa5"/><text x="283" y="82" font-size="11" font-weight="bold" fill="#b3261e">00:27 IST</text><text x="283" y="97" font-size="10" fill="#222">Modi opens</text><text x="283" y="108" font-size="10" fill="#222">Nitish Setu</text></g>
+<g><rect x="402" y="66" width="124" height="46" fill="#ffffff" stroke="#c9bfa5"/><text x="409" y="82" font-size="11" font-weight="bold" fill="#b3261e">00:05 UTC</text><text x="409" y="97" font-size="10" fill="#222">Waltz: US open</text><text x="409" y="108" font-size="10" fill="#222">to LatAm UN chief</text></g>
+<g><rect x="528" y="66" width="124" height="46" fill="#ffffff" stroke="#c9bfa5"/><text x="535" y="82" font-size="11" font-weight="bold" fill="#b3261e">04:00 GMT</text><text x="535" y="97" font-size="10" fill="#222">Las Vegas GP</text><text x="535" y="108" font-size="10" fill="#222">under lights</text></g>
+<g><rect x="654" y="66" width="124" height="46" fill="#ffffff" stroke="#c9bfa5"/><text x="661" y="82" font-size="11" font-weight="bold" fill="#b3261e">08:00 SAST</text><text x="661" y="97" font-size="10" fill="#222">G20 opens in</text><text x="661" y="108" font-size="10" fill="#222">Johannesburg</text></g>
+<g><rect x="780" y="66" width="118" height="46" fill="#ffffff" stroke="#c9bfa5"/><text x="787" y="82" font-size="11" font-weight="bold" fill="#b3261e">09:00 EST</text><text x="787" y="97" font-size="10" fill="#222">Hull v Brighton</text><text x="787" y="108" font-size="10" fill="#222">kick off</text></g>
+<g><rect x="900" y="66" width="116" height="46" fill="#ffffff" stroke="#c9bfa5"/><text x="907" y="82" font-size="11" font-weight="bold" fill="#b3261e">11:30 EST</text><text x="907" y="97" font-size="10" fill="#222">Liverpool v</text><text x="907" y="108" font-size="10" fill="#222">Man Utd</text></g>
+</g>
+<!-- BIG PANELS -->
+<g font-family="Arial, sans-serif">
+<!-- 1 G20 -->
+<rect x="8" y="124" width="498" height="168" fill="#ffffff" stroke="#0b1e3a" stroke-width="1.5"/>
+<rect x="8" y="124" width="150" height="168" fill="#1d3a5f"/>
+<circle cx="83" cy="168" r="26" fill="#f2c94c"/><rect x="28" y="196" width="110" height="10" fill="#2e7d32"/><rect x="38" y="206" width="90" height="8" fill="#7b1fa2"/><rect x="48" y="214" width="70" height="8" fill="#1565c0"/>
+<rect x="20" y="226" width="126" height="34" fill="#5d4037"/><rect x="28" y="232" width="10" height="14" fill="#ffffff"/><rect x="48" y="232" width="10" height="14" fill="#f2c94c"/><rect x="68" y="232" width="10" height="14" fill="#1565c0"/><rect x="88" y="232" width="10" height="14" fill="#b3261e"/><rect x="108" y="232" width="10" height="14" fill="#2e7d32"/><rect x="128" y="232" width="10" height="14" fill="#ffffff"/>
+<text x="20" y="282" font-size="10" fill="#e8e0cc">Johannesburg skyline</text>
+<text x="170" y="146" font-size="11" font-weight="bold" fill="#b3261e">1 · AFRICA · DIPLOMACY</text>
+<text x="170" y="172" font-size="20" font-weight="bold" fill="#0b1e3a">G20 opens in Johannesburg</text>
+<text x="170" y="196" font-size="20" font-weight="bold" fill="#0b1e3a">— first summit on African soil</text>
+<text x="170" y="220" font-size="13" fill="#333">Ramaphosa hosts 42 nations; the US stays</text>
+<text x="170" y="238" font-size="13" fill="#333">away; a draft declaration is agreed</text>
+<text x="170" y="256" font-size="13" fill="#333">without Washington.</text>
+<rect x="170" y="264" width="86" height="18" fill="#0e7c7b"/><text x="176" y="277" font-size="10" font-weight="bold" fill="#ffffff">CONFIRMED</text>
+<rect x="262" y="264" width="96" height="18" fill="#e8e0cc"/><text x="268" y="277" font-size="10" fill="#333">Reuters / AFP</text>
+<!-- 2 Modi bridge -->
+<rect x="518" y="124" width="498" height="168" fill="#ffffff" stroke="#0b1e3a" stroke-width="1.5"/>
+<rect x="518" y="124" width="150" height="168" fill="url(#sky)"/>
+<rect x="518" y="240" width="150" height="52" fill="#4a90d9"/><rect x="518" y="124" width="150" height="22" fill="#8fbc8f"/><rect x="518" y="196" width="150" height="10" fill="#ffffff"/><rect x="530" y="150" width="6" height="46" fill="#b3261e"/><rect x="590" y="150" width="6" height="46" fill="#b3261e"/><rect x="648" y="150" width="6" height="46" fill="#b3261e"/>
+<path d="M533,152 L560,196 M536,152 L575,196 M593,152 L560,196 M596,152 L620,196 M596,152 L635,196 M651,152 L620,196 M654,152 L635,196" stroke="#c9a227" stroke-width="2.5" fill="none"/>
+<circle cx="640" cy="142" r="12" fill="#f2c94c"/>
+<text x="530" y="282" font-size="10" fill="#5a5344">Nitish Setu over the Ganga</text>
+<text x="680" y="146" font-size="11" font-weight="bold" fill="#b3261e">2 · INDIA · POLITICS</text>
+<text x="680" y="172" font-size="20" font-weight="bold" fill="#0b1e3a">Modi opens Nitish Setu, a new</text>
+<text x="680" y="196" font-size="20" font-weight="bold" fill="#0b1e3a">Ganga bridge in Bihar</text>
+<text x="680" y="220" font-size="13" fill="#333">Six-lane crossing links Patna and Vaishali,</text>
+<text x="680" y="238" font-size="13" fill="#333">named for Chief Minister Nitish Kumar.</text>
+<rect x="680" y="264" width="86" height="18" fill="#0e7c7b"/><text x="686" y="277" font-size="10" font-weight="bold" fill="#ffffff">CONFIRMED</text>
+<rect x="772" y="264" width="56" height="18" fill="#e8e0cc"/><text x="778" y="277" font-size="10" fill="#333">NDTV</text>
+<!-- 3 Test -->
+<rect x="8" y="300" width="498" height="168" fill="#ffffff" stroke="#0b1e3a" stroke-width="1.5"/>
+<rect x="8" y="300" width="150" height="168" fill="#2e7d32"/>
+<ellipse cx="83" cy="384" rx="62" ry="60" fill="#7cb342"/><ellipse cx="83" cy="384" rx="45" ry="42" fill="#a5d6a7"/>
+<rect x="70" y="356" width="4" height="22" fill="#f2c94c"/><rect x="80" y="356" width="4" height="22" fill="#f2c94c"/><rect x="90" y="356" width="4" height="22" fill="#f2c94c"/>
+<rect x="60" y="396" width="46" height="8" fill="#8d6e63" transform="rotate(-30 83 400)"/><circle cx="118" cy="410" r="9" fill="#b3261e"/>
+<text x="20" y="458" font-size="10" fill="#e8e0cc">Basin Reserve, Wellington</text>
+<text x="170" y="322" font-size="11" font-weight="bold" fill="#b3261e">3 · WELLINGTON · SPORT</text>
+<text x="170" y="348" font-size="20" font-weight="bold" fill="#0b1e3a">India–New Zealand Test begins</text>
+<text x="170" y="372" font-size="20" font-weight="bold" fill="#0b1e3a">under windy skies</text>
+<text x="170" y="396" font-size="13" fill="#333">First Test of the tour starts in Wellington;</text>
+<text x="170" y="414" font-size="13" fill="#333">KL Rahul's evolution in focus.</text>
+<rect x="170" y="440" width="86" height="18" fill="#0e7c7b"/><text x="176" y="453" font-size="10" font-weight="bold" fill="#ffffff">CONFIRMED</text>
+<rect x="262" y="440" width="70" height="18" fill="#e8e0cc"/><text x="268" y="453" font-size="10" fill="#333">Cricbuzz</text>
+<!-- 4 EU Ukraine -->
+<rect x="518" y="300" width="498" height="168" fill="#ffffff" stroke="#0b1e3a" stroke-width="1.5"/>
+<rect x="518" y="300" width="150" height="168" fill="#1a237e"/>
+<rect x="530" y="312" width="126" height="76" fill="#003399"/><g fill="#ffdd00"><circle cx="593" cy="330" r="3"/><circle cx="608" cy="338" r="3"/><circle cx="613" cy="352" r="3"/><circle cx="606" cy="366" r="3"/><circle cx="593" cy="372" r="3"/><circle cx="580" cy="366" r="3"/><circle cx="573" cy="352" r="3"/><circle cx="578" cy="338" r="3"/></g>
+<rect x="530" y="400" width="60" height="46" fill="#0057b7"/><rect x="590" y="400" width="66" height="46" fill="#ffd700"/>
+<text x="530" y="458" font-size="10" fill="#e8e0cc">EU flag and Ukraine</text>
+<text x="680" y="322" font-size="11" font-weight="bold" fill="#b3261e">4 · EUROPE · DIPLOMACY</text>
+<text x="680" y="348" font-size="20" font-weight="bold" fill="#0b1e3a">EU leaders meet on Ukraine</text>
+<text x="680" y="372" font-size="20" font-weight="bold" fill="#0b1e3a">on the eve of the G20</text>
+<text x="680" y="396" font-size="13" fill="#333">Brussels weighs Kyiv's future and Trump's</text>
+<text x="680" y="414" font-size="13" fill="#333">28-point peace plan.</text>
+<rect x="680" y="440" width="60" height="18" fill="#b3261e"/><text x="686" y="453" font-size="10" font-weight="bold" fill="#ffffff">CLAIM</text>
+<rect x="746" y="440" width="82" height="18" fill="#e8e0cc"/><text x="752" y="453" font-size="10" fill="#333">growentix</text>
+</g>
+<!-- MEDIUM PANELS -->
+<g font-family="Arial, sans-serif">
+<!-- row 1 y476 -->
+<g><rect x="8" y="476" width="328" height="52" fill="#ffffff" stroke="#c9bfa5"/><rect x="12" y="480" width="46" height="44" fill="#1565c0"/><rect x="20" y="486" width="30" height="32" fill="#ffffff"/><rect x="24" y="490" width="5" height="5" fill="#1565c0"/><rect x="33" y="490" width="5" height="5" fill="#1565c0"/><rect x="42" y="490" width="5" height="5" fill="#1565c0"/><rect x="24" y="500" width="5" height="5" fill="#1565c0"/><rect x="33" y="500" width="5" height="5" fill="#1565c0"/><rect x="42" y="500" width="5" height="5" fill="#1565c0"/><text x="66" y="494" font-size="12" font-weight="bold" fill="#0b1e3a">5 · US open to a Latin American</text><text x="66" y="509" font-size="12" font-weight="bold" fill="#0b1e3a">UN chief, Waltz says</text><text x="66" y="522" font-size="10" fill="#5a5344">japako.pl</text></g>
+<g><rect x="348" y="476" width="328" height="52" fill="#ffffff" stroke="#c9bfa5"/><rect x="352" y="480" width="46" height="44" fill="#0057b7"/><rect x="352" y="480" width="46" height="22" fill="#0057b7"/><rect x="352" y="502" width="46" height="22" fill="#ffd700"/><ellipse cx="375" cy="496" rx="16" ry="8" fill="#ffffff"/><text x="406" y="494" font-size="12" font-weight="bold" fill="#0b1e3a">6 · Zelensky: more peace talks</text><text x="406" y="509" font-size="12" font-weight="bold" fill="#0b1e3a">may come at the G20</text><text x="406" y="522" font-size="10" fill="#5a5344">japako.pl · CLAIM</text></g>
+<g><rect x="688" y="476" width="328" height="52" fill="#ffffff" stroke="#c9bfa5"/><rect x="692" y="480" width="46" height="44" fill="#37474f"/><path d="M694,506 L736,506 L736,498 Q736,488 715,488 Q694,488 694,498 Z" fill="#0b1e3a"/><rect x="692" y="506" width="46" height="6" fill="#0b1e3a"/><circle cx="715" cy="512" r="4" fill="#f2c94c"/><text x="746" y="494" font-size="12" font-weight="bold" fill="#0b1e3a">7 · UP police salute Owaisi —</text><text x="746" y="509" font-size="12" font-weight="bold" fill="#0b1e3a">for the wrong judge</text><text x="746" y="522" font-size="10" fill="#5a5344">NDTV</text></g>
+<!-- row 2 y532 -->
+<g><rect x="8" y="532" width="328" height="52" fill="#ffffff" stroke="#c9bfa5"/><rect x="12" y="536" width="46" height="44" fill="#e8e0cc"/><ellipse cx="28" cy="552" rx="12" ry="9" fill="#ffffff" stroke="#0b1e3a"/><ellipse cx="44" cy="566" rx="12" ry="9" fill="#ffffff" stroke="#0b1e3a"/><text x="66" y="550" font-size="12" font-weight="bold" fill="#0b1e3a">8 · Pakistan minister invokes</text><text x="66" y="565" font-size="12" font-weight="bold" fill="#0b1e3a">Mughal kings at SCO talks</text><text x="66" y="578" font-size="10" fill="#5a5344">The Times of India</text></g>
+<g><rect x="348" y="532" width="328" height="52" fill="#ffffff" stroke="#c9bfa5"/><rect x="352" y="536" width="46" height="44" fill="#212121"/><circle cx="362" cy="546" r="4" fill="#ffffff"/><circle cx="388" cy="546" r="4" fill="#ffffff"/><circle cx="362" cy="570" r="4" fill="#ffffff"/><circle cx="388" cy="570" r="4" fill="#ffffff"/><circle cx="375" cy="558" r="6" fill="#ffffff"/><text x="406" y="550" font-size="12" font-weight="bold" fill="#0b1e3a">9 · Ramayana: Part 1 — day 17</text><text x="406" y="565" font-size="12" font-weight="bold" fill="#0b1e3a">at the box office</text><text x="406" y="578" font-size="10" fill="#5a5344">The Times of India</text></g>
+<g><rect x="688" y="532" width="328" height="52" fill="#ffffff" stroke="#c9bfa5"/><rect x="692" y="536" width="46" height="44" fill="#6d4c41"/><rect x="698" y="542" width="16" height="32" fill="#fff8e1"/><rect x="716" y="542" width="16" height="32" fill="#fff8e1"/><path d="M698,542 Q707,550 698,574 M732,542 Q723,550 732,574" fill="none" stroke="#6d4c41" stroke-width="2"/><text x="746" y="550" font-size="12" font-weight="bold" fill="#0b1e3a">10 · Chennai Book Fair 2027</text><text x="746" y="565" font-size="12" font-weight="bold" fill="#0b1e3a">set for Jan 16–18</text><text x="746" y="578" font-size="10" fill="#5a5344">The Hindu</text></g>
+<!-- row 3 y588 -->
+<g><rect x="8" y="588" width="328" height="52" fill="#ffffff" stroke="#c9bfa5"/><rect x="12" y="592" width="46" height="44" fill="#e8f5e9"/><rect x="18" y="626" width="6" height="8" fill="#2e7d32"/><rect x="28" y="618" width="6" height="16" fill="#43a047"/><rect x="38" y="608" width="6" height="26" fill="#66bb6a"/><rect x="48" y="600" width="6" height="34" fill="#81c784"/><text x="66" y="606" font-size="12" font-weight="bold" fill="#0b1e3a">11 · Protests 'can cut sexual</text><text x="66" y="621" font-size="12" font-weight="bold" fill="#0b1e3a">violence', study finds</text><text x="66" y="634" font-size="10" fill="#5a5344">Brisbane Times</text></g>
+<g><rect x="348" y="588" width="328" height="52" fill="#ffffff" stroke="#c9bfa5"/><rect x="352" y="592" width="46" height="44" fill="#c8e6c9"/><ellipse cx="375" cy="614" rx="14" ry="16" fill="#43a047"/><path d="M375,598 L375,630" stroke="#2e7d32" stroke-width="2"/><text x="406" y="606" font-size="12" font-weight="bold" fill="#0b1e3a">12 · Naturopathy Day marked</text><text x="406" y="621" font-size="12" font-weight="bold" fill="#0b1e3a">across India</text><text x="406" y="634" font-size="10" fill="#5a5344">pw.live</text></g>
+<g><rect x="688" y="588" width="328" height="52" fill="#ffffff" stroke="#c9bfa5"/><rect x="692" y="592" width="46" height="44" fill="#263238"/><rect x="700" y="598" width="30" height="32" fill="#37474f"/><ellipse cx="715" cy="598" rx="15" ry="4" fill="#546e7a"/><path d="M715,606 q6,10 0,14 q-6,-4 0,-14" fill="#f2c94c"/><text x="746" y="606" font-size="12" font-weight="bold" fill="#0b1e3a">13 · Oil slides 3%+ as futures fall</text><text x="746" y="621" font-size="12" font-weight="bold" fill="#0b1e3a">Crude at ₹7,842 a barrel</text><text x="746" y="634" font-size="10" fill="#5a5344">thedailyjagran</text></g>
+<!-- row 4 y644 -->
+<g><rect x="8" y="644" width="328" height="52" fill="#ffffff" stroke="#c9bfa5"/><rect x="12" y="648" width="46" height="44" fill="#e3f2fd"/><path d="M28,686 L28,664 L22,656 L34,656 L28,664 Z" fill="#90caf9"/><path d="M22,686 L34,686 L40,676 L16,676 Z" fill="#64b5f6"/><path d="M30,656 L40,648 L46,656 Z" fill="#90caf9"/><text x="66" y="662" font-size="12" font-weight="bold" fill="#0b1e3a">14 · ICMR: 100 tech transfers,</text><text x="66" y="677" font-size="12" font-weight="bold" fill="#0b1e3a">20 licences</text><text x="66" y="690" font-size="10" fill="#5a5344">thedailyjagran</text></g>
+<g><rect x="348" y="644" width="328" height="52" fill="#ffffff" stroke="#c9bfa5"/><rect x="352" y="648" width="46" height="44" fill="#2e7d32"/><rect x="356" y="652" width="38" height="36" fill="#7cb342"/><ellipse cx="375" cy="678" rx="16" ry="8" fill="#ffffff"/><text x="406" y="662" font-size="12" font-weight="bold" fill="#0b1e3a">15 · Liverpool host Man Utd</text><text x="406" y="677" font-size="12" font-weight="bold" fill="#0b1e3a">at Anfield today</text><text x="406" y="690" font-size="10" fill="#5a5344">The Guardian</text></g>
+<g><rect x="688" y="644" width="328" height="52" fill="#ffffff" stroke="#c9bfa5"/><rect x="692" y="648" width="46" height="44" fill="#1a1a2e"/><rect x="698" y="664" width="34" height="10" fill="#b3261e"/><circle cx="704" cy="678" r="6" fill="#111"/><circle cx="726" cy="678" r="6" fill="#111"/><circle cx="704" cy="678" r="2.5" fill="#999"/><circle cx="726" cy="678" r="2.5" fill="#999"/><rect x="728" y="660" width="6" height="6" fill="#f2c94c"/><text x="746" y="662" font-size="12" font-weight="bold" fill="#0b1e3a">16 · Las Vegas GP tonight,</text><text x="746" y="677" font-size="12" font-weight="bold" fill="#0b1e3a">Verstappen on pole</text><text x="746" y="690" font-size="10" fill="#5a5344">ESPN</text></g>
+</g>
+<line x1="0" y1="702" x2="1024" y2="702" stroke="#0b1e3a" stroke-width="1.5"/>
+<text x="8" y="718" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0b1e3a">WHERE IT HAPPENED — PINS 1–16</text>
+<text x="408" y="718" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0b1e3a">17–50 · THE REST OF THE DAY</text>
+<svg x="8" y="724" width="384" height="196" viewBox="0 0 360 180">
+<rect x="0" y="0" width="360" height="180" fill="#cfe0f2"/>
+<g stroke="#ffffff" stroke-width="0.6" opacity="0.6"><line x1="30" y1="0" x2="30" y2="180"/><line x1="60" y1="0" x2="60" y2="180"/><line x1="90" y1="0" x2="90" y2="180"/><line x1="120" y1="0" x2="120" y2="180"/><line x1="150" y1="0" x2="150" y2="180"/><line x1="180" y1="0" x2="180" y2="180"/><line x1="210" y1="0" x2="210" y2="180"/><line x1="240" y1="0" x2="240" y2="180"/><line x1="270" y1="0" x2="270" y2="180"/><line x1="300" y1="0" x2="300" y2="180"/><line x1="330" y1="0" x2="330" y2="180"/><line x1="0" y1="30" x2="360" y2="30"/><line x1="0" y1="60" x2="360" y2="60"/><line x1="0" y1="90" x2="360" y2="90"/><line x1="0" y1="120" x2="360" y2="120"/><line x1="0" y1="150" x2="360" y2="150"/></g>
+<g fill="#dfe8dd" stroke="#7a9a7a" stroke-width="1">
+<path d="M18,58 L24,34 L40,20 L62,14 L88,16 L108,26 L104,42 L96,52 L88,66 L76,72 L62,70 L46,64 L28,64 Z"/>
+<path d="M76,6 L92,4 L96,12 L82,16 Z"/>
+<path d="M72,78 L86,80 L96,88 L93,106 L86,126 L79,120 L73,102 L69,88 Z"/>
+<path d="M176,32 L192,24 L206,26 L210,36 L200,46 L186,48 L176,42 Z"/>
+<path d="M182,56 L202,50 L216,56 L221,76 L213,100 L201,112 L191,96 L183,76 Z"/>
+<path d="M212,22 L252,12 L292,18 L322,26 L332,42 L316,56 L292,62 L262,66 L236,60 L216,46 L210,34 Z"/>
+<ellipse cx="292" cy="78" rx="6" ry="4"/><ellipse cx="302" cy="82" rx="5" ry="3"/><ellipse cx="286" cy="84" rx="4" ry="3"/>
+<path d="M300,116 L322,110 L336,118 L331,132 L312,133 L300,126 Z"/>
+<rect x="170" y="28" width="4" height="6"/>
+<ellipse cx="318" cy="52" rx="3" ry="8"/>
+<ellipse cx="352" cy="138" rx="3" ry="7"/>
+</g>
+<g font-family="Arial, sans-serif" font-size="8.5" font-weight="bold" text-anchor="middle">
+<g><circle cx="208" cy="116" r="6.5" fill="#b3261e" stroke="#ffffff" stroke-width="1"/><text x="208" y="119" fill="#ffffff">1</text></g>
+<g><circle cx="270" cy="58" r="6.5" fill="#b3261e" stroke="#ffffff" stroke-width="1"/><text x="270" y="61" fill="#ffffff">2</text></g>
+<g><circle cx="352" cy="131" r="6.5" fill="#b3261e" stroke="#ffffff" stroke-width="1"/><text x="352" y="134" fill="#ffffff">3</text></g>
+<g><circle cx="188" cy="44" r="6.5" fill="#b3261e" stroke="#ffffff" stroke-width="1"/><text x="188" y="47" fill="#ffffff">4</text></g>
+<g><circle cx="106" cy="49" r="6.5" fill="#b3261e" stroke="#ffffff" stroke-width="1"/><text x="106" y="52" fill="#ffffff">5</text></g>
+<g><circle cx="211" cy="40" r="6.5" fill="#b3261e" stroke="#ffffff" stroke-width="1"/><text x="211" y="43" fill="#ffffff">6</text></g>
+<g><circle cx="260" cy="68" r="6.5" fill="#b3261e" stroke="#ffffff" stroke-width="1"/><text x="260" y="71" fill="#ffffff">7</text></g>
+<g><circle cx="252" cy="58" r="6.5" fill="#b3261e" stroke="#ffffff" stroke-width="1"/><text x="252" y="61" fill="#ffffff">8</text></g>
+<g><circle cx="249" cy="72" r="6.5" fill="#b3261e" stroke="#ffffff" stroke-width="1"/><text x="249" y="75" fill="#ffffff">9</text></g>
+<g><circle cx="264" cy="80" r="6.5" fill="#b3261e" stroke="#ffffff" stroke-width="1"/><text x="264" y="83" fill="#ffffff">10</text></g>
+<g><circle cx="333" cy="118" r="6.5" fill="#b3261e" stroke="#ffffff" stroke-width="1"/><text x="333" y="121" fill="#ffffff">11</text></g>
+<g><circle cx="263" cy="73" r="6.5" fill="#b3261e" stroke="#ffffff" stroke-width="1"/><text x="263" y="76" fill="#ffffff">12</text></g>
+<g><circle cx="227" cy="65" r="6.5" fill="#b3261e" stroke="#ffffff" stroke-width="1"/><text x="227" y="68" fill="#ffffff">13</text></g>
+<g><circle cx="172" cy="40" r="6.5" fill="#b3261e" stroke="#ffffff" stroke-width="1"/><text x="172" y="43" fill="#ffffff">14</text></g>
+<g><circle cx="65" cy="54" r="6.5" fill="#b3261e" stroke="#ffffff" stroke-width="1"/><text x="65" y="57" fill="#ffffff">15</text></g>
+<g><circle cx="184" cy="30" r="6.5" fill="#b3261e" stroke="#ffffff" stroke-width="1"/><text x="184" y="33" fill="#ffffff">16</text></g>
+</g>
+</svg>
+<!-- LIST 17-50 -->
+<g font-family="Arial, sans-serif" font-size="10.5" fill="#222">
+<text x="408" y="734">17. Hull v Brighton, Premier League (Guardian)</text>
+<text x="408" y="746">18. Juventus v Venezia, Serie A (Guardian)</text>
+<text x="408" y="758">19. AC Milan v Frosinone (Guardian)</text>
+<text x="408" y="770">20. Atalanta v Inter tonight (Guardian)</text>
+<text x="408" y="782">21. Athletic Bilbao v Espanyol (Guardian)</text>
+<text x="408" y="794">22. Bologna v Udinese, Serie A (Guardian)</text>
+<text x="408" y="806">23. Sassuolo v Genoa, Serie A (Guardian)</text>
+<text x="408" y="818">24. G20: debt relief push (growentix)</text>
+<text x="408" y="830">25. G20: critical minerals deal eyed (growentix)</text>
+<text x="408" y="842">26. G20: disaster resilience (growentix)</text>
+<text x="408" y="854">27. Modi's 12th G20, 4th SA trip (growentix)</text>
+<text x="408" y="866">28. 'Empty chair' handover to US (Glance)</text>
+<text x="408" y="878">29. Draft declaration, no US (Glance)</text>
+<text x="408" y="890">30. EU budget 'very disappointing' (japako)</text>
+<text x="408" y="902">31. Yemen: 193 Houthi killed* (japako)</text>
+<text x="408" y="914">32. 'Pink Panther' to fight for Ukraine (japako)</text>
+<text x="408" y="926">33. Saudis down Houthi missile (japako)</text>
+<text x="712" y="734">34. Türkiye rejects Rohingya plan (japako)</text>
+<text x="712" y="746">35. Gen Z activism sweeps Asia (japako)</text>
+<text x="712" y="758">36. Nepal's Balendra Shah test (japako)</text>
+<text x="712" y="770">37. Bahrain seeks UN action on Iran (japako)</text>
+<text x="712" y="782">38. US dismisses Iran F-16 claim (japako)</text>
+<text x="712" y="794">39. Denmark expels Russian attaché (schreinerei)</text>
+<text x="712" y="806">40. Gaza aid vehicle strike kills 3* (schreinerei)</text>
+<text x="712" y="818">41. Finland: Russia a NATO threat (japako)</text>
+<text x="712" y="830">42. Brazil supercell storm (japako)</text>
+<text x="712" y="842">43. Mexico networks disrupted (japako)</text>
+<text x="712" y="854">44. US flight systems 'outdated' (japako)</text>
+<text x="712" y="866">45. Cummins keeps captaincy (dailyjagran)</text>
+<text x="712" y="878">46. US panel: China shaped Op Sindoor (Newsmriti)</text>
+<text x="712" y="890">47. KL Rahul's Test evolution (Cricbuzz)</text>
+<text x="712" y="902">48. Wellington wind test for India (pw.live)</text>
+<text x="712" y="914">49. Snooker: Advani wins opener (pw.live)</text>
+<text x="712" y="926">50. 42 nations at the G20 table (TAIDEN)</text>
+</g>
+<!-- DATE CHECK FOOTER -->
+<line x1="0" y1="932" x2="1024" y2="932" stroke="#0b1e3a" stroke-width="1.5"/>
+<rect x="0" y="932" width="1024" height="92" fill="#e8e0cc"/>
+<text x="16" y="948" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#b3261e">DATE CHECK — WHAT IS NOT IN THIS PICTURE</text>
+<text x="16" y="948" font-family="Arial, sans-serif" font-size="10" fill="#5a5344" text-anchor="start" dx="330">* one-sided account, not independently confirmed</text>
+<g font-family="Arial, sans-serif" font-size="9.5" fill="#333">
+<text x="16" y="962">✕ Shenzhen summit (Xi–Trump–Putin) — 19 Nov</text>
+<text x="16" y="973">✕ ICJ: Myanmar guilty, Rohingya genocide — 19 Nov</text>
+<text x="16" y="984">✕ Estonia border decision — 20 Nov</text>
+<text x="16" y="995">✕ Voyager 1 one light-day — announced 19 Nov</text>
+<text x="16" y="1006">✕ Japan–India live-fire deal — 19 Nov</text>
+<text x="16" y="1017">✕ Peru quake 6.9 — 20 Nov</text>
+<text x="520" y="962">✕ Iran strikes Bahrain and Gulf — 21 Nov</text>
+<text x="520" y="973">✕ Nigeria boat sinks, 24 dead — 21 Nov</text>
+<text x="520" y="984">✕ UN 'killer robots': no ban agreed — 21 Nov</text>
+<text x="520" y="995">✕ COP31 fossil-fuel deadlock — 21 Nov</text>
+<text x="520" y="1006">✕ F1 pole for Verstappen — 21 Nov</text>
+<text x="520" y="1017">NOT YET: Las Vegas GP result · G20 declaration · Jeddah flights 24 Nov · Estonia closure 1 Dec</text>
+</g>
+</svg>
